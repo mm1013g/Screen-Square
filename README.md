@@ -11,6 +11,7 @@ When you have the requirements installed, download screenrunner.py and run with
 ```bash
 python screensquare.py
 ```
+In order for the keypad '+' wall bind to function, you must have a folder named "wall" in the same directory as the script
 
 # Controls
 Use arrow keys to move around \
